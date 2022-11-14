@@ -1,0 +1,2 @@
+"Data Source=SQL8003.site4now.net;Initial Catalog=db_a8fc8f_partsstoredb;User Id=db_a8fc8f_partsstoredb_admin;Password=YOUR_DB_PASSWORD
+"DefaultConnection": "Server=DESKTOP-U4H1R22;Database=storeofpartsdb;Trusted_Connection=True;MultipleActiveResultSets=true"

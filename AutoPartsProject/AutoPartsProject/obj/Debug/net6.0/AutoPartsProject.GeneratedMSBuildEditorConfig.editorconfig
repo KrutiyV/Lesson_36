@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AutoPartsProject
+build_property.RootNamespace = AutoPartsProject
+build_property.ProjectDir = F:\Beetroot.Net\DiplomaVar2\AutoPartsProject\AutoPartsProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Beetroot.Net\DiplomaVar2\AutoPartsProject\AutoPartsProject
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Parts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Parts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Parts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Parts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Parts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Beetroot.Net/DiplomaVar2/AutoPartsProject/AutoPartsProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8910diu0tl
